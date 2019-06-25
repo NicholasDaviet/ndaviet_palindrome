@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require "ndaviet_palindrome/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "ndaviet_palindrome"
+  spec.name          = "ndaviet_palindrome2.0"
   spec.version       = NdavietPalindrome::VERSION
   spec.authors       = ["Nicholas Daviet"]
   spec.email         = ["Nico@dixieranch.com"]

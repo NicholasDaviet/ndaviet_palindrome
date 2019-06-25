@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    ndaviet_palindrome (0.1.0)
+    ndaviet_palindrome2.0 (0.1.0)
 
 GEM
   remote: https://rubygems.org/
@@ -24,7 +24,7 @@ DEPENDENCIES
   bundler (~> 2.0)
   minitest (~> 5.0)
   minitest-reporters (= 1.2.0)
-  ndaviet_palindrome!
+  ndaviet_palindrome2.0!
   rake (~> 10.0)
 
 BUNDLED WITH
